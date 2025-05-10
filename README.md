@@ -6,6 +6,7 @@ In this task, we explored the use of SQL Views, Stored Procedures, and Stored Fu
 
 ### 1. CREATE A VIEW that will display the vendors_code, vendors name, product description p_indate, of all products with p_indate from 2002 onwards
 - SQL Query Statements
+
 ![image](https://github.com/user-attachments/assets/36927489-7ef1-4e4d-92ab-c593fdcdd98c)
 
 - Output
@@ -14,6 +15,7 @@ In this task, we explored the use of SQL Views, Stored Procedures, and Stored Fu
 
 ### 2. CREATE a VIEW that will display all products whose price range is between 100-150
 - SQL Query Statements
+
 ![image](https://github.com/user-attachments/assets/5f6619b2-805e-4d8c-b862-61ac1642fdd7)
 
 - Output
@@ -22,6 +24,7 @@ In this task, we explored the use of SQL Views, Stored Procedures, and Stored Fu
 
 ### 3. Create a VIEW that will COMPUTE for the (TOTAL_PRICE) of ALL PRODUCTS by getting the (P_ONHAND x P_PRICE) Sold by vendors with the following v_code (21344, 23119 and 24288)
 - SQL Query Statements
+
 ![image](https://github.com/user-attachments/assets/a8e959b8-f62a-4072-ba2b-42820f9362de)
 
 - Output
@@ -30,6 +33,7 @@ In this task, we explored the use of SQL Views, Stored Procedures, and Stored Fu
 
 ### 4. CREATE a STORED PROCEDURE that WILL take a SINGLE PARAMETER and UPDATED the Name of Vendor ‘Bryson,Inc.’ to ‘Bryson and Co’.
 - SQL Query Statement
+
 ![image](https://github.com/user-attachments/assets/b9820ee0-9aea-4ebe-8178-ab848a86b79a)
 
 - Output
@@ -38,6 +42,7 @@ In this task, we explored the use of SQL Views, Stored Procedures, and Stored Fu
 
 ### 5. CREATE A Function that will take 2 parameters(v_code and v_state) and display All the product description and price based on the parameters passed to the function
 - SQL Query Statement
+
 ![image](https://github.com/user-attachments/assets/ec0b3473-410d-499e-800f-2e0f100a9a22)
 
 - Output
